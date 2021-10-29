@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0028833b.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.5d2dbda2.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.5d2dbda2.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.9fbd6762.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.9fbd6762.js.map",
+    "static/js/2.0c424e8d.chunk.js": "/React-Portfolio/static/js/2.0c424e8d.chunk.js",
+    "static/js/2.0c424e8d.chunk.js.map": "/React-Portfolio/static/js/2.0c424e8d.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.0028833b.chunk.css.map": "/React-Portfolio/static/css/main.0028833b.chunk.css.map",
+    "static/js/2.0c424e8d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.0c424e8d.chunk.js.LICENSE.txt",
+    "static/media/fitness-tracker.4ab34dee.png": "/React-Portfolio/static/media/fitness-tracker.4ab34dee.png",
+    "static/media/geek-emporium.ec4da809.PNG": "/React-Portfolio/static/media/geek-emporium.ec4da809.PNG",
+    "static/media/inspiration-station.93c26074.png": "/React-Portfolio/static/media/inspiration-station.93c26074.png",
+    "static/media/js-quiz.97ea125e.png": "/React-Portfolio/static/media/js-quiz.97ea125e.png",
+    "static/media/password-generator.75f63f7e.png": "/React-Portfolio/static/media/password-generator.75f63f7e.png",
+    "static/media/profile-image.c0c9ebc4.PNG": "/React-Portfolio/static/media/profile-image.c0c9ebc4.PNG",
+    "static/media/resume.1fea0bed.jpg": "/React-Portfolio/static/media/resume.1fea0bed.jpg",
+    "static/media/team-profile-generator.b721941c.png": "/React-Portfolio/static/media/team-profile-generator.b721941c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fbd6762.js",
+    "static/js/2.0c424e8d.chunk.js",
+    "static/css/main.0028833b.chunk.css",
+    "static/js/main.5d2dbda2.chunk.js"
+  ]
+}

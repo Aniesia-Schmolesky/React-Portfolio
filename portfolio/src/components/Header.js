@@ -5,9 +5,16 @@ export default function Header() {
       <header class="text-gray-600 body-font bg-gray-200">
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-blue-500 rounded-full" viewBox="0 0 24 24">
-        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
-      </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+  aria-describedby="desc" role="img" xlink="http://www.w3.org/1999/xlink">
+  <title>Laptop Screen</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="none" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2" d="M6 45l-4 6v2h60v-2l-4-6"></path>
+  <path data-name="layer1" fill="none" stroke="#202020" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M6 11h52v34H6z"></path>
+</svg>
       <span class="ml-3 text-xl">Aniesia Schmolesky</span>
     </a>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">

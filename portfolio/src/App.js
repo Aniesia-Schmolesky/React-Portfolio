@@ -24,7 +24,7 @@ import Footer from "./components/Footer";
 
 const Main = () => {
   return (
-    <div className="App">
+    <div className="App" class="bg-gray-500">
       <Header />
       <Switch> {/* The Switch decides which component to show based on the current URL.*/}
       <Route exact path='/' component={AboutMe}></Route>
@@ -32,6 +32,7 @@ const Main = () => {
       <Route exact path='/resume' component={Resume}></Route>
       <Route exact path='/contactme' component={ContactMe}></Route>
       </Switch>
+      
       <Footer />
       </div>
   );

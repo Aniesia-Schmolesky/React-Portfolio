@@ -2,7 +2,6 @@ import React from "react";
 import { Switch, Route } from 'react-router-dom';
 import AboutMe from "./components/AboutMe";
 import ContactMe from "./components/ContactMe";
-import Project from "./components/Project";
 import Projects from "./components/Projects";
 import Resume from "./components/Resume";
 import Header from "./components/Header";

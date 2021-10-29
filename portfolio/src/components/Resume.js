@@ -1,1 +1,3 @@
-export default function Resume() {}
+export default function Resume() {
+    return(null)
+}
